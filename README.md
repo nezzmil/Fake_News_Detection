@@ -13,18 +13,18 @@ Here i have used two different datasets Fake.csv and True.csv
 Title: Fake News Articles
 Description:
 This file contains 23,481 fabricated or misleading news articles. Each entry includes:
-title: Headline used in the article
-text: Main content of the article
-subject: Thematic label of the article (e.g., conspiracy, political bias)
-date: Assigned or published date
+Title: Headline used in the article    
+Text: Main content of the article
+Subject: Thematic label of the article (e.g., conspiracy, political bias)
+Date: Assigned or published date
 
 Title: True News Articles
 Description
 This file contains 21,417 real news articles sourced from reliable outlets. Each entry includes:
-title: Headline of the article
-text: Full body content of the news piece
-subject: Topic/category of the news (e.g., politics, world, tech)
-date: Publication date of the article
+Title: Headline of the article
+Text: Full body content of the news piece
+Subject: Topic/category of the news (e.g., politics, world, tech)
+Date: Publication date of the article
 
 # Key Features:
 Data preprocessing using NLP techniques
