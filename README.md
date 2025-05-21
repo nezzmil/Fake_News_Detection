@@ -19,7 +19,7 @@ Subject: Thematic label of the article (e.g., conspiracy, political bias)
 Date: Assigned or published date
 
 Title: True News Articles
-Description:/n
+Description:
 This file contains 21,417 real news articles sourced from reliable outlets. Each entry includes:
 Title: Headline of the article
 Text: Full body content of the news piece
