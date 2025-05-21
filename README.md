@@ -14,9 +14,9 @@ Title: Fake News Articles
 Description:
 This file contains 23,481 fabricated or misleading news articles. Each entry includes:
 Title: Headline used in the article    
-Text: Main content of the article
-Subject: Thematic label of the article (e.g., conspiracy, political bias)
-Date: Assigned or published date
+Text: Main content of the article  
+Subject: Thematic label of the article (e.g., conspiracy, political bias)  
+Date: Assigned or published date  
 
 Title: True News Articles
 Description:
