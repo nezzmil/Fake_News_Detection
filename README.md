@@ -1,4 +1,4 @@
-## Fake News Detection Using Support Vector Machine (SVM)
+# Fake News Detection Using Support Vector Machine (SVM)
 
 # Project Description:
 This project aims to develop a machine learning model that can accurately detect fake news using the Support Vector Machine (SVM) algorithm. In today’s digital era, the rapid spread of misinformation and fake news through online platforms has become a significant concern. To combat this issue, the project leverages Natural Language Processing (NLP) techniques to preprocess and analyze textual data from news articles and social media posts.
