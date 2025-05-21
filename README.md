@@ -7,6 +7,25 @@ The system is trained on a labeled dataset consisting of both fake and real news
 
 SVM is chosen due to its effectiveness in handling high-dimensional data and its ability to find the optimal hyperplane that separates different classes. The model is trained and validated to distinguish between fake and real news with a focus on achieving high accuracy and generalizability.
 
+# DataSets
+Here i have used two different datasets Fake.csv and True.csv
+
+Title: Fake News Articles
+Description:
+This file contains 23,481 fabricated or misleading news articles. Each entry includes:
+title: Headline used in the article
+text: Main content of the article
+subject: Thematic label of the article (e.g., conspiracy, political bias)
+date: Assigned or published date
+
+Title: True News Articles
+Description
+This file contains 21,417 real news articles sourced from reliable outlets. Each entry includes:
+title: Headline of the article
+text: Full body content of the news piece
+subject: Topic/category of the news (e.g., politics, world, tech)
+date: Publication date of the article
+
 # Key Features:
 Data preprocessing using NLP techniques
 
