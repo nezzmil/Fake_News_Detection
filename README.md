@@ -21,10 +21,10 @@ Date: Assigned or published date
 Title: True News Articles
 Description:
 This file contains 21,417 real news articles sourced from reliable outlets. Each entry includes:
-Title: Headline of the article
-Text: Full body content of the news piece
-Subject: Topic/category of the news (e.g., politics, world, tech)
-Date: Publication date of the article
+Title: Headline of the article  
+Text: Full body content of the news piece  
+Subject: Topic/category of the news (e.g., politics, world, tech)  
+Date: Publication date of the article  
 
 # Key Features:
 Data preprocessing using NLP techniques
